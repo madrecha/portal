@@ -18,5 +18,12 @@ Current Status: launching on 13th June 2022
 1. Fast, intuitive search. All the reporting needs covered.
 
 
+## Road Map
+* 13th June 2022 - 🐛 Beta Launch
+* 30th June 2022 - 🦋 v1 With all information from Income tax portal
+* 20th July 2022 - 🚗 v2 Get Information from Traces
+* TBD - ✈️ v3 TIS, AIS, 26AS downlow and analysis 
+
+
 ## About Us
 The software is brought to you by [Madrecha Solutions Pvt Ltd](https://www.linkedin.com/company/madrecha-and-company/), the company behind India's largest [practice management solution for CA, Tax Consultants](https://madrecha.com/jamku/), Jamku. More than 1700 CA, CPA, CS, Advocate firms trust Jamku to manage their practice. 
