@@ -25,10 +25,10 @@
 
 ## Road Map
 
-* 13th June 2022 - 🐛 Beta Launch
+* 11th June 2022 - 🐛 Beta Launch
 * 30th June 2022 - 🦋 v1 With all information from Income tax portal
-* 20th July 2022 - 🚗 v2 Get Information from Traces
-* TBD - ✈️ v3 TIS, AIS, 26AS downlow and analysis
+* 30th July 2022 - 🚗 v2 Get Information from Traces
+* TBD - ✈️ v3 TIS, AIS, 26AS download and analysis
 
 ## About Us
 
