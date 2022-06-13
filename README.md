@@ -1,8 +1,6 @@
 # Income Tax Portal by [Jamku](https://madrecha.com/jamku/)👩‍🦰
 
-Current Status: launching on 13th June 2022
-
-"IT Portal by Jamku" is cloud software offered on [SAAS](https://en.wikipedia.org/wiki/Software_as_a_service) model. It's designed to be used by Chartered Accountants, Tax Consultants, Large corporates. Basically anyone who wants to view all the information about multiple PANs in one Unified Dashboard.
+"[IT Portal by Jamku](https://itportal.jamku.app/)" is cloud software offered on [SAAS](https://en.wikipedia.org/wiki/Software_as_a_service) model. It's designed to be used by Chartered Accountants, Tax Consultants, Large corporates. Basically anyone who wants to view all the information about multiple PANs in one Unified Dashboard.
 
 <p align="center">
   <img src="img/cover-image.jpg" alt="Income Tax Portal by Jamku cover image" width="500px"/>
