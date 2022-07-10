@@ -33,6 +33,7 @@ _Last updated on 10th July 2022_
 * TBD - ✈️ v3 TIS, AIS, 26AS download and analysis
 
 ## Screenshot 
+![Home Page](https://user-images.githubusercontent.com/11911938/178150707-5aed57e2-6647-400a-b010-dcedc5c3968a.png)
 ![Sync Page](https://user-images.githubusercontent.com/11911938/178149653-b5abe853-3bb0-47c5-82fa-46a1bc35c02b.png)
 
 ## About Us
