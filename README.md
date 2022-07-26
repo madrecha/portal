@@ -24,13 +24,13 @@
 1. Fast, intuitive search. All the reporting needs covered.
 
 ## Road Map
-_Last updated on 10th July 2022_
-* 11th June 2022 - 🐛 Beta Launch
-* 25th June 2022 - 🦋 All information from Income tax portal
-* 28th July 2022 - 🦋 [Get refund status from TIN NSDL](https://github.com/madrecha/itportal/issues/17)
-* 10th July 2022 - 🔖 Tagging module to track and create custom reports
-* 30th July 2022 - 🚗 Get Information from Traces
-* TBD - ✈️ v3 TIS, AIS, 26AS download and analysis
+_Last updated on 26th July 2022_
+* ✅11th June 2022 - 🐛 Beta Launch
+* ✅25th June 2022 - 🦋 All information from Income tax portal
+* ✅15th July 2022 - 🦋 [Get refund status from TIN NSDL](https://github.com/madrecha/itportal/issues/17)
+* ✅20th July 2022 - 🔖 Tagging module to track Notices and Demands 
+* 🟡10th Aug 2022 - 🚗 Get Information from Traces (TDS)
+* 🟡TBD - ✈️ v3 TIS, AIS, 26AS download and analysis
 
 ## Screenshot 
 ![Home Page](https://user-images.githubusercontent.com/11911938/178150707-5aed57e2-6647-400a-b010-dcedc5c3968a.png)
