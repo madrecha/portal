@@ -1,6 +1,6 @@
 # Income Tax Portal by [Jamku](https://madrecha.com/jamku/)👩‍🦰
 
-"[IT Portal by Jamku](https://itportal.jamku.app/)" is cloud software offered on [SAAS](https://en.wikipedia.org/wiki/Software_as_a_service) model. It's designed to be used by Chartered Accountants, Tax Consultants, Large corporates. Basically anyone who wants to view all the information about multiple PANs in one Unified Dashboard.
+"[IT Portal by Jamku](https://portal.jamku.app/)" is cloud software offered on [SAAS](https://en.wikipedia.org/wiki/Software_as_a_service) model. It's designed to be used by Chartered Accountants, Tax Consultants, Large corporates. Basically anyone who wants to view all the information about multiple PANs in one Unified Dashboard.
 
 <p align="center">
   <img src="img/cover-image.jpg" alt="Income Tax Portal by Jamku cover image" width="500px"/>
@@ -27,10 +27,11 @@
 _Last updated on 26th July 2022_
 * ✅11th June 2022 - 🐛 Beta Launch
 * ✅25th June 2022 - 🦋 All information from Income tax portal
-* ✅15th July 2022 - 🦋 [Get refund status from TIN NSDL](https://github.com/madrecha/itportal/issues/17)
+* ✅15th July 2022 - 🦋 [Get refund status from TIN NSDL](https://github.com/madrecha/portal/issues/17)
 * ✅20th July 2022 - 🔖 Tagging module to track Notices and Demands 
-* 🟡10th Aug 2022 - 🚗 Get Information from Traces (TDS)
-* 🟡TBD - ✈️ v3 TIS, AIS, 26AS download and analysis
+* 🟡20th Aug 2022 - 🚗 v2 Get Information from GST Portal
+* 🟡30th Aug 2022 - 🚗 v3 Get Information from Traces (TDS)
+* 🟡TBD - ✈️ v4 TIS, AIS, 26AS download and analysis
 
 ## Screenshot 
 ![Home Page](https://user-images.githubusercontent.com/11911938/178150707-5aed57e2-6647-400a-b010-dcedc5c3968a.png)
