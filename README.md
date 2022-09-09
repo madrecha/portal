@@ -24,12 +24,14 @@
 1. Fast, intuitive search. All the reporting needs covered.
 
 ## Road Map
-_Last updated on 26th July 2022_
+_Last updated on 09th Sept 2022_
 * ✅11th June 2022 - 🐛 Beta Launch
 * ✅25th June 2022 - 🦋 All information from Income tax portal
 * ✅15th July 2022 - 🦋 [Get refund status from TIN NSDL](https://github.com/madrecha/portal/issues/17)
 * ✅20th July 2022 - 🔖 Tagging module to track Notices and Demands 
-* 🟡20th Aug 2022 - 🚗 v2 Get Information from GST Portal
+* ✅20th Aug 2022 - 🦋 Complete overhauled the software to add GST Portal 
+* ✅06th Sep 2022 - 🦋 v2 Get Information from GST Portal
+* 🟡20th Sep 2022 - 🚗 Complete Inofmration fetching from GST Portal
 * 🟡30th Aug 2022 - 🚗 v3 Get Information from Traces (TDS)
 * 🟡TBD - ✈️ v4 TIS, AIS, 26AS download and analysis
 
