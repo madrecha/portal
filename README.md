@@ -91,3 +91,9 @@ This list was last updated on 16th August 2022. As of this date, more than 500 O
 * [Taxtreat _Mumbai_](https://www.taxtreat.in?jamkuRef=9AFD4N)
 * [Umesh Agrawal And Associates _Khamgaon_](https://www.uaa.co.in?jamkuRef=XGVLW7)
 * [V R U J & Associates _Rajkot_](https://www.vruj.in?jamkuRef=61LUN5)
+
+
+
+
+![CENTRAL VIGILANCE certificate](https://user-images.githubusercontent.com/11911938/199308704-c30976bc-8817-4596-a15a-3090d03acae9.jpg)
+
