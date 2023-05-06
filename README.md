@@ -33,6 +33,11 @@
 The software is brought to you by [Madrecha Solutions Pvt Ltd](https://www.linkedin.com/company/madrecha-and-company/), the company behind India's largest [practice management solution for CA, Tax Consultants](https://madrecha.com/jamku/), Jamku. More than 1700 CA, CPA, CS, Advocate firms trust Jamku to manage their practice. 
 
 
+![jamku client 1](https://user-images.githubusercontent.com/11911938/236608852-7d489158-3118-467a-b9fd-1036b28834a5.png)
+![jamku client 2](https://user-images.githubusercontent.com/11911938/236608855-7ef671db-c6c7-4f39-911c-67e52559e393.png)
+![team_jamku](https://user-images.githubusercontent.com/11911938/236608856-d593d258-6dfc-4cbb-b909-1a2ffe3af9cf.png)
+
+
 ## Offices / Enterprises Using Jamku IT Portal
 This list was last updated on 16th August 2022. As of this date, more than 500 Offices have signed up for Jamku Portal.
 
