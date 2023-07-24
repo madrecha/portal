@@ -1,4 +1,4 @@
-# Income Tax Portal by [Jamku](https://madrecha.com/jamku/)👩‍🦰
+# Jamku 👩‍🦰 Portal
 
 "[Jamku Portal](https://portal.jamku.app/)" is notice and compliance tracking software offered on [SAAS](https://en.wikipedia.org/wiki/Software_as_a_service) model. It's designed to be used by Chartered Accountants, Tax Consultants, Large corporates. Basically anyone who wants to view all the information about multiple entities (PAN/GSTIN/TAN) in one Unified Dashboard.
 
